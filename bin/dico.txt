@@ -1,0 +1,16 @@
+animal
+bird
+dog
+fish
+food
+horse
+tail
+light
+sun
+snow
+plane
+school
+water
+land
+mountain
+wood
