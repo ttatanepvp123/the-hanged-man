@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "letterchecker.h": "c",
+        "define.h": "c"
+    }
+}
